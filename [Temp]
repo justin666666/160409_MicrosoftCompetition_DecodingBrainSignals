@@ -1,4 +1,0 @@
-# code which didn't use now but keep
-
-  # only four ID so hadn't wrote as auto-naming variable
-  #DataP1 = Data[Data$PatientID %in% "p1", ]
