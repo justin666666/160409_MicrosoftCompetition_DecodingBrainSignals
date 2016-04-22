@@ -1,4 +1,5 @@
-FileFolder = "C:\\Users\\skylikewater\\Desktop\\160409_MicrosoftCompetition_DecodingBrainSignals\\"
+FileFolder = "D:\\Dropbox\\840_Github\\[Private]_Data\\160409_MicrosoftCompetition_DecodingBrainSignals\\"
+OutputFolder = FileFolder
 
 DataPath = file.path(paste(FileFolder, "ecog_train_with_labels.csv", sep = ""))
 Data = read.csv(DataPath)
